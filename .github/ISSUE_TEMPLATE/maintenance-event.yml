@@ -1,0 +1,43 @@
+name: Maintenace Event
+description: Add a maintenance event for public monitoring and to track progress.
+title: '[Maintenance]: <service> will undergo routine maintenance '
+body:
+  - type: textarea
+    id: about
+    attributes:
+      label: About this maintenance
+      description: >-
+        Write details about this maintenance, alongside metadata for Upptime to
+        correctly label services expected to be down during the window.
+      value: |-
+        <!--
+        start: 2021-08-24T13:00:00.220Z
+        end: 2021-08-24T14:00:00.220Z
+        expectedDown: google, hacker-news
+        -->
+
+        A brief description of what will happen during the maintenance window.
+    validations:
+      required: true
+  - type: dropdown
+    id: maintenanceType
+    attributes:
+      label: Is this a scheduled or emergency maintenance?
+      options:
+        - Routine maintenance
+        - Unscheduled maintenance
+        - Emergency maintenance
+    validations:
+      required: true
+  - type: textarea
+    id: additionalContext
+    attributes:
+      label: Additional context
+      description: >-
+        If additional information is needed, please place issue links and
+        anything else in this field.
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)

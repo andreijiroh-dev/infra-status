@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Feature requests and ideas
-    url: https://github.com/orgs/upptime/discussions/new?category=ideas
-    about: Suggest an idea for this project
-  - name: Questions
-    url: https://github.com/orgs/upptime/discussions/new?category=q-a
-    about: Please ask and answer questions here
+  - name: Meta issue tracker
+    url: https://github.com/andreijiroh-dev/personal-launchpad/blob/main/README.md
+    about: This issue tracker is reserved for tracking incidents and maintenances. Please check the personal launchpad README for more details.
