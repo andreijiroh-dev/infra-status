@@ -6,11 +6,11 @@ sites:
   - name: Homepage
     url: https://andreijiroh.xyz
   - name: Digital Garden
-    url: https://en.wikipedia.org
+    url: https://garden.andreijiroh.xyz
   - name: golinks
     url: https://go.andreijiroh.xyz/api/ping
-  #-name: proxyparty
-  # url: https://proxyparty.andreijiroh.xyz/ping
+  - name: Blog (hosted on Nest)
+    url: https://blog.andreijiroh.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Andrei Jiroh
   introTitle: "We're actively monitoring ~ajhalili2006's services using GitHub Actions + Issues + Pages, [powered by Upptime](https://github.com/upptime/upptime)"
-  introMessage: If something went down, we'll looking into it behind the scenes and a update will be posted here.
+  introMessage: If something went down, we'll looking into it behind the scenes and a update will be posted here via the issue tracker.
   navbar:
     - title: Status
       href: /

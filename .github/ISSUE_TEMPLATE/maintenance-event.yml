@@ -1,6 +1,6 @@
 name: Maintenace Event
 description: Add a maintenance event for public monitoring and to track progress.
-title: '[Maintenance]: <service> will undergo routine maintenance '
+title: '[Maintenance]: <service> will undergo <routine|emgerency|unscheduled> maintenance'
 body:
   - type: textarea
     id: about
@@ -16,7 +16,8 @@ body:
         expectedDown: google, hacker-news
         -->
 
-        A brief description of what will happen during the maintenance window.
+        A brief description of what will happen during the maintenance window. Mention
+        both the start and end time and date here for humans.
     validations:
       required: true
   - type: dropdown
