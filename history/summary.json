@@ -58,17 +58,17 @@
     "url": "https://blog.andreijiroh.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.andreijiroh.dev.ico",
     "slug": "blog-hosted-on-nest",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 772,
-    "timeWeek": 797,
-    "timeMonth": 797,
-    "timeYear": 797,
+    "time": 839,
+    "timeDay": 976,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   }
 ]
