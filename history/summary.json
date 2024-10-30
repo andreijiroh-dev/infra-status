@@ -58,7 +58,7 @@
     "url": "https://blog.andreijiroh.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.andreijiroh.dev.ico",
     "slug": "blog-hosted-on-nest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,6 +70,7 @@
     "timeMonth": 1115,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2024-10-30": 0,
       "2024-10-19": 103,
       "2024-10-07": 127,
       "2024-10-06": 78,
