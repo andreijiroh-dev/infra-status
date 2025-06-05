@@ -1,16 +1,21 @@
-# Change these first
-owner: andreijiroh-dev # Your GitHub organization or username, where this repository lives
-repo: infra-status # The name of this repository
+# See https://upptime.js.org/docs/configuration for config docs
+
+# git repo stuff
+owner: andreijiroh-dev
+repo: infra-status
 
 sites:
   - name: Homepage
-    url: https://andreijiroh.xyz
+    url: https://andreijiroh.dev
+    slug: site
   - name: Digital Garden
-    url: https://garden.andreijiroh.xyz
-  - name: golinks
-    url: https://go.andreijiroh.xyz/api/ping
-  - name: Blog (hosted on Nest)
+    url: https://garden.andreijiroh.dev
+    slug: garden
+  #- name: golinks
+  #  url: https://go.andreijiroh.xyz/api/ping
+  - name: Blog (hosted on nest
     url: https://blog.andreijiroh.dev
+    slug: blog
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,13 +24,19 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Andrei Jiroh
-  introTitle: "We're actively monitoring ~ajhalili2006's services using GitHub Actions + Issues + Pages, [powered by Upptime](https://github.com/upptime/upptime)"
-  introMessage: If something went down, we'll looking into it behind the scenes and a update will be posted here via the issue tracker.
+  introTitle: >
+    We're actively monitoring ~ajhalili2006's services using GitHub Actions + Issues + Pages,
+    [powered by Upptime](https://github.com/upptime/upptime)
+  introMessage: |
+    If something went down, we'll looking into it behind the scenes and a update will be posted here via the issue tracker.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: Recap Time Bot
+  commitAuthorEmail: git@recaptime.dev
+
+user-agent: 
