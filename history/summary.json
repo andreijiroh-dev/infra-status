@@ -22,19 +22,19 @@
     "url": "https://garden.andreijiroh.dev",
     "icon": "https://icons.duckduckgo.com/ip3/garden.andreijiroh.dev.ico",
     "slug": "garden",
-    "status": "down",
-    "uptime": "65.46%",
-    "uptimeDay": "65.46%",
-    "uptimeWeek": "65.46%",
-    "uptimeMonth": "65.46%",
-    "uptimeYear": "65.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
+    "time": 512,
+    "timeDay": 512,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-06-05": 0
+      "2025-06-05": 43
     }
   },
   {
