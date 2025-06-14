@@ -42,19 +42,19 @@
     "url": "https://blog.andreijiroh.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.andreijiroh.dev.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 764,
-    "timeWeek": 956,
-    "timeMonth": 931,
-    "timeYear": 931,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 976,
+    "timeDay": 1094,
+    "timeWeek": 1015,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {
-      "2025-06-14": 0
+      "2025-06-14": 8
     }
   }
 ]
