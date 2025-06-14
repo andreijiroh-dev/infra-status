@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 145,
-    "timeWeek": 174,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 173,
+    "timeDay": 117,
+    "timeWeek": 158,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/garden.andreijiroh.dev.ico",
     "slug": "garden",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 436,
-    "timeDay": 365,
-    "timeWeek": 421,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 414,
+    "timeDay": 218,
+    "timeWeek": 384,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-06-05": 43
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 781,
-    "timeWeek": 987,
-    "timeMonth": 950,
-    "timeYear": 950,
+    "time": 931,
+    "timeDay": 764,
+    "timeWeek": 956,
+    "timeMonth": 931,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   }
 ]
