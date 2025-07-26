@@ -8,14 +8,20 @@ sites:
   - name: Homepage
     url: https://andreijiroh.dev
     slug: site
+  - name: Personal API
+    url: https://api.andreijiroh.dev/ping
+    slug: api
   - name: Digital Garden
     url: https://garden.andreijiroh.dev
     slug: garden
   #- name: golinks
   #  url: https://go.andreijiroh.xyz/api/ping
-  - name: Blog (hosted on nest
+  - name: Blog (hosted on Nest)
     url: https://blog.andreijiroh.dev
     slug: blog
+  - name: GitBook docs (on docs site w/o custom domain/subdirectory)
+    url: https://gitbook.andreijiroh.dev
+    slug: gitbook
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -39,4 +45,4 @@ commitMessages:
   commitAuthorName: Recap Time Bot
   commitAuthorEmail: git@recaptime.dev
 
-user-agent: 
+user-agent: "Upptimebot (https://upptime.js.org; repo: https://github.com/andreijiroh-dev/infra-status)"
