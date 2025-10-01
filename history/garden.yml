@@ -1,7 +1,7 @@
 url: https://garden.andreijiroh.dev
-status: up
-code: 200
-responseTime: 184
-lastUpdated: 2025-09-30T23:02:00.200Z
+status: down
+code: 503
+responseTime: 384
+lastUpdated: 2025-10-01T10:36:23.063Z
 startTime: 2025-06-05T17:07:03.177Z
 generator: Upptime <https://github.com/upptime/upptime>
