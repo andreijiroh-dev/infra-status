@@ -11,8 +11,8 @@ sites:
   - name: Personal API
     url: https://api.andreijiroh.dev/ping
     slug: api
-  - name: Digital Garden
-    url: https://garden.andreijiroh.dev
+  - name: Digital Garden / Personal Wiki
+    url: https://wiki.andreijiroh.dev
     slug: garden
   #- name: golinks
   #  url: https://go.andreijiroh.xyz/api/ping
@@ -22,6 +22,12 @@ sites:
   - name: GitBook docs (on docs site w/o custom domain/subdirectory)
     url: https://gitbook.andreijiroh.dev
     slug: gitbook
+  - name: Nextcloud on Coolify Homelab
+    url: https://nextcloud.andreijiroh.dev
+    slug: nextcloud
+  - name: Coolify Homelab Server
+    url: https://coolify.andreijiroh.dev
+    slug: coolify
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,7 +35,7 @@ status-website:
   cname: status.andreijiroh.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Andrei Jiroh
+  name: "Andrei Jiroh's InfraOps"
   introTitle: >
     We're actively monitoring ~ajhalili2006's services using GitHub Actions + Issues + Pages,
     [powered by Upptime](https://github.com/upptime/upptime)
