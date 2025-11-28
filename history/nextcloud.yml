@@ -1,7 +1,7 @@
 url: https://nextcloud.andreijiroh.dev
-status: up
-code: 200
-responseTime: 3817
-lastUpdated: 2025-11-28T07:44:47.880Z
+status: down
+code: 530
+responseTime: 50
+lastUpdated: 2025-11-28T09:20:43.786Z
 startTime: 2025-11-14T00:30:03.038Z
 generator: Upptime <https://github.com/upptime/upptime>
