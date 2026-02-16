@@ -1,7 +1,7 @@
 url: https://coolify.andreijiroh.dev
-status: up
-code: 200
-responseTime: 1126
-lastUpdated: 2026-02-15T23:04:05.746Z
+status: down
+code: 502
+responseTime: 655
+lastUpdated: 2026-02-16T22:50:14.564Z
 startTime: 2025-11-14T00:30:06.141Z
 generator: Upptime <https://github.com/upptime/upptime>
