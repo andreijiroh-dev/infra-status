@@ -1,7 +1,7 @@
 url: https://api.andreijiroh.dev/ping
-status: up
-code: 200
-responseTime: 1317
-lastUpdated: 2026-03-21T23:03:42.347Z
+status: down
+code: 502
+responseTime: 18736
+lastUpdated: 2026-03-22T10:16:27.606Z
 startTime: 2025-07-26T07:45:31.686Z
 generator: Upptime <https://github.com/upptime/upptime>
