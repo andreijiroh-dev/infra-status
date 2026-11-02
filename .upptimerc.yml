@@ -8,9 +8,11 @@ sites:
   - name: Homepage
     url: https://andreijiroh.dev
     slug: site
-  - name: Personal API
-    url: https://api.andreijiroh.dev/ping
-    slug: api
+  # Paused 2026-11-03: Previously on Deno Deploy Classic but not yet migrated to
+  # CF Workers or somewhere else.
+  #- name: Personal API
+  #  url: https://api.andreijiroh.dev/ping
+  #  slug: api
   - name: Digital Garden / Personal Wiki
     url: https://wiki.andreijiroh.dev
     slug: garden
@@ -57,3 +59,4 @@ commitMessages:
   commitAuthorEmail: git@recaptime.dev
 
 user-agent: "Upptimebot (https://upptime.js.org; repo: https://github.com/andreijiroh-dev/infra-status)"
+skipDeleteIssues: true
