@@ -16,18 +16,23 @@ sites:
     slug: garden
   #- name: golinks
   #  url: https://go.andreijiroh.xyz/api/ping
-  - name: Blog (hosted on Nest)
-    url: https://blog.andreijiroh.dev
-    slug: blog
+  # Paused 2026-11-02: DNS is moving to the Leaflet blog and the back catalog
+  # still lives on the homelab, so the Nest host will keep failing TLS until the
+  # swap. Restore with the Leaflet publication URL once that lands.
+  #- name: Blog
+  #  url: https://blog.andreijiroh.dev
+  #  slug: blog
   - name: GitBook docs (on docs site w/o custom domain/subdirectory)
     url: https://gitbook.andreijiroh.dev
     slug: gitbook
-  - name: Nextcloud on Coolify Homelab
-    url: https://nextcloud.andreijiroh.dev
-    slug: nextcloud
-  - name: Coolify Homelab Server
-    url: https://coolify.andreijiroh.dev
-    slug: coolify
+  # Paused 2026-11-02: T130 is off for maintenance, so both checks report a dead
+  # Cloudflare Tunnel. Restore when the homelab is back up.
+  #- name: Nextcloud on Coolify Homelab
+  #  url: https://nextcloud.andreijiroh.dev
+  #  slug: nextcloud
+  #- name: Coolify Homelab Server
+  #  url: https://coolify.andreijiroh.dev
+  #  slug: coolify
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
